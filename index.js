@@ -135,6 +135,8 @@ var b=-15;
 // console.log("Hello world");
 // console.log("hello " + "world");
 
-var myName= "Pranay";
-console.log(myName + "Agre");
-console.log(myName + "Omprakash Agre");
+// var myName= "Pranay";
+// console.log(myName + "Agre");
+// console.log(myName + " Pranay Omprakash Agre");
+
+
